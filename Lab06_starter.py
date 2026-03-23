@@ -1,7 +1,6 @@
 # ============================================================
 #  WEEK 06 LAB: NETWORK DIAGNOSTIC LOGGER
 #  COMP2152 — Windows Version
-#  Landon Swales
 # ============================================================
 #
 #  This program runs network commands (ping, nslookup, ipconfig),
